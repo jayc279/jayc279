@@ -1,7 +1,7 @@
 ### Hi there, I'm Jay Yanamandala 👋   
 📫jyanamandala@gmail.com
 
-**I'm a Generative AI Architect and AI Engineer with excellent understanding and practical experience in dbuilding, training, pre-training, fine-tuning, and prompt-engineering techniques. Excellent project management skills, working with and managing cross-functional teams.**
+**I'm a Generative AI Architect and AI Engineer with excellent understanding and practical experience in building, training, pre-training, fine-tuning, and prompt-engineering techniques. Excellent project management skills, working with and managing cross-functional teams.**
 
 **Hobby** I love working on GenAI LLM works & projects - especially pre-training, fine-tuning, and promtp-engineering - with foundation and Huggingface transformer models/datasets, and in Kaggle competitions
 
