@@ -1,16 +1,29 @@
 ### Hi there, I'm Jay Yanamandala 👋   
-📫jyanamandala@gmail.com
+📫jayachandra.yanamandala@gmail.com
 
-**I'm a Generative AI Architect and AI Engineer with excellent understanding and practical experience in building, training, pre-training, fine-tuning, and prompt-engineering techniques. Excellent project management skills, working with and managing cross-functional teams.**
+**Since cybersecurity will be the main focus of almost everyone who uses internet via desktop, mobile, IoT, wireless etc., switched career paths to be an Ethical Hacker and Penetration Tester and help in efforts to keep us all safe from cyber threats.**  
 
-**Hobby** I love working on GenAI LLM works & projects - especially pre-training, fine-tuning, and promtp-engineering - with foundation and Huggingface transformer models/datasets, and in Kaggle competitions
+*For the past 25+ years had worked in Electronic Design Automation industry, focused on software testing, risk analysis, infrastructure, and web application development, and now combined with penetration testing skills using cybersecurity tools, and experiences in pretraining GenAI LLM models*
+
+**Hobby** I love working on Hacktons, Bug Hunting and CTF (Capture The Flag) projects. Pre-train, fine-tune, and prompt-engineer GenAI-LLM models to mitigate cybersecurity threats.
 
 ### Certifications	
+- :memo: Certified Ethical Hacking (LearnkartS)        [certificate](https://www.coursera.org/account/accomplishments/specialization/0DPIBFPG3WF6)
+- :memo: Google Cloud Security (Google Cloud Training)        [certificate](https://www.coursera.org/account/accomplishments/professional-cert/8D98TQ1DH6AC) 
 - :memo: GenAI-LLM (DeepLearning.ai, AWS)        [certificate](https://coursera.org/share/bc98caf7558fc3642a065571f4e6fe48)  
 - :memo: Deep Learning Neural Networks 	        [certificate](https://coursera.org/share/06fef9a3ab5b86aad857df668eca4a65)  
 - :memo: Machine Learning (Stanford Univ) 	        [certificate](https://coursera.org/share/43f2f8c29abdc5b3d131cbf2f63c95e6)  
 - :memo: Machine Leaning (Univ of Washington)	[certificate](https://coursera.org/share/5aafe816eee9f3010669c19c6fe2c685)  
 - :memo: Data Sciences (Johns Hopkins Univ) 	    [certificate](https://coursera.org/share/289254eb86f7316234a3c180c7232f95)  
+
+### [CEH Projects &amp; Notes](https://github.com/jayc279/CEH)
+**Penetration Testing against vulnerable apps on Oracle VirtualBox**  
+• Reconnaissance and Fingerprinting using OSINT tools; Shodan, Google Dorks, Burp & ZAP passive scanning.  
+• Network Ports mapping and scanning using Nmap, Masscan. Network data packets sniffing using Wireshark.  
+• Passive and Active scanning; manual & automated, spidering, directory brute-force, etc. (Burp Suite, OWASP-ZAP, Nessus)  
+• Injection techniques to exploit Web apps: XSS, CSRF, SSRF, SQL, brute-force passwords and users, HTML Headers, etc. (Burp)  
+• Analyzed system for potential vulnerabilities from improper system and network configuration – Automated and Manual  
+• Exploitation, and Post exploitation using Metasploit  
 
 ### GenAI Projects
 - :newspaper: Trained from scratch Huggingface ROBERTaMLM on Esperanto text file [code](https://github.com/jayc279/GenAI_LLM/blob/main/train_from_scratch/train_from_scratch_smallBERTa_12_6.ipynb)
