@@ -1,5 +1,5 @@
 ### Hi there, I'm Jay Yanamandala 👋   
-📫jayachandra.yanamandala@gmail.com
+📫jyanamandala@gmail.com
 
 **Since cybersecurity will be the main focus of almost everyone who uses internet via desktop, mobile, IoT, wireless etc., switched career paths to be an Ethical Hacker and Penetration Tester and help in efforts to keep us all safe from cyber threats.**  
 
