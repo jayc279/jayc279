@@ -1,38 +1,58 @@
 ### Hi there, I'm Jay Yanamandala 👋   
 📫jyanamandala@gmail.com
-<HR><a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4940181" target=_blank style='border:none;'><img src="https://tryhackme-badges.s3.amazonaws.com/jyanamandala.png" alt="Your Image Badge" /></a><BR>
+<BR>
+<a href="https://www.credly.com/badges/9cc32022-736c-4402-937c-4a2add3a19b5/" target=_blank style='border:none;'>CompTIA CySA+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/0eb13ed8-6006-4771-b716-875550ea749f/" target=_blank style='border:none;'>CompTIA Security+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/3cc6d19d-4a04-43e1-92a3-4d8f87ecb0ec/" target=_blank style='border:none;'>CompTIA CSAP (Security Analytics Professional)</a><BR>
+<a href="https://tryhackme.com/p/jyanamandala" target=_blank style='border:none;'>TryHackMe</a><BR>
 
-A dedicated professional with over 20 years of experience in the technology sector is transitioning into Cybersecurity and Security Analysis. Expertise includes designing and developing automation tools, building infrastructures, software vulnerability analysis, testing, and release management. 
+<HR>
 
-Specialization lies in Ethical Hacking and Penetration Testing, with a proactive approach to identifying and mitigating potential security threats. Certifications include CEH (v13) from EC-Council and Junior Penetration Tester. Training on platforms like TryHackMe included completing 95 rooms and earning 16 badges within three weeks, placing in the top 6% of participants. 
+•	Certified Security Analyst and Ethical Hacker with expertise in foundational security principles and incident response.<BR>
+•	Proven experience in simulating attacks to identify vulnerabilities and secure systems lawfully (EC-Council CEH).<BR>
+•	Expertise in improving SDLC and CI/CD processes, training teams, and proactively mitigating risk.<BR>
+•	Integrated APIs to enhance security automation, modeling, and strategic improvements.<BR>
 
-Additional experience includes AI prompt engineering and fine-tuning. Excels in collaborative team environments and seeks to identify and prove vulnerabilities, collaborating with development teams to fix security flaws and protect end-users.
+**Hobby:** Continuous professional development: learn new technologies, processes, and attack vectors and implement solutions/remediations to improve robustness of current system and decrease attack surface, and earn expert certifications.
 
-**Hobby** I love working on TryHackme, Bug Hunting and CTF (Capture The Flag) projects. Pre-train, fine-tune, and prompt-engineer GenAI-LLM models to mitigate cybersecurity threats.
+### CyberSecurity Professional Certifications	
+- :memo: CompTIA CySA+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-CySA%2BCertificate.pdf)
+- :memo: CompTIA Security+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-Security%2BCertificate.pdf)
+- :memo: CompTIA CSAP (Security Analytics Professional) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-Security-Analytics-Professional%E2%80%93CSAP.pdf)
+- :memo: Certified Ethical Hacker CEH v13 (EC-Council) &nbsp;&nbsp; [verify certification link](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=D8lrd5RmvO/snnDG4lO2M9uPVA+AhgTss6Odlz4luak=)&nbsp;&nbsp;&nbsp;[view certificate](https://github.com/jayc279/jayc279/blob/main/certificates/ECC-CEH-Certificate.pdf)
 
-### CyberSecurity Certifications	
-- :memo: Certified Ethical Hacker CEH v13 (Ec-Council) &nbsp;&nbsp; <pre>Name:**Jayachandra Yanamandala** &nbsp;&nbsp; Certificate Number:**ECC7109863542**  &nbsp;&nbsp;&nbsp;&nbsp; [verify certification link](https://aspen.eccouncil.org/Verify)</pre>
+### CyberSecurity TryHackMe Certifications	
 - :memo: Jr Penetration Tester (TryHackMe) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MO2QRXXKBE.pdf)
 - :memo: Cybersecurity 101 (TryHackMe) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OECSFTZN4G.pdf)
 - :memo: Web Fundamentals (TryHackMe) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BOGTQRQRV0.pdf)
 
-### Other Certifications
-- :memo: Google Cloud Security (Google Cloud Training) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://www.coursera.org/account/accomplishments/professional-cert/8D98TQ1DH6AC) 
+### AI Related Certifications
 - :memo: GenAI-LLM (DeepLearning.ai, AWS) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://coursera.org/share/bc98caf7558fc3642a065571f4e6fe48)  
-- :memo: Deep Learning Neural Networks &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://coursera.org/share/06fef9a3ab5b86aad857df668eca4a65)  
+- :memo: Deep Learning Neural Networks &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://coursera.org/share/06fef9a3ab5b86aad857df668eca4a65)
+
+### ML/DS/Cloud Certifications
 - :memo: Machine Learning (Stanford Univ) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://coursera.org/share/43f2f8c29abdc5b3d131cbf2f63c95e6)  
 - :memo: Machine Leaning (Univ of Washington) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://coursera.org/share/5aafe816eee9f3010669c19c6fe2c685)  
-- :memo: Data Sciences (Johns Hopkins Univ) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://coursera.org/share/289254eb86f7316234a3c180c7232f95)  
+- :memo: Data Sciences (Johns Hopkins Univ) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://coursera.org/share/289254eb86f7316234a3c180c7232f95)
+- :memo: Google Cloud Security (Google Cloud Training) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://www.coursera.org/account/accomplishments/professional-cert/8D98TQ1DH6AC) 
 
-### [CEH Projects &amp; Notes - in-progress](https://github.com/jayc279/CEH)
-**Ethical Hacker / Security Analyst / Penetration Testing**
-- Current skills: System Penetration Testing, General Cybersecurity, Application Penetration Testing, and Entry level Red Team
-- Acquired hands-on experience in security monitoring, offensive and defensive tactics, incident handling, and threat analysis, by training on TryHackMe, EC-Council Aspen portal, HackerSchool, PicoCTF, and also setting up a Virtualbox vulnerable home lab for vulnerable apps.
-- Earned the “TryHackMe” Mage certificate in less than 3 weeks, earned three certifications: Junior Pentester, Cybersecurity 101, and Web Fundamentals. Completed 95 rooms with 16 badges, moved to top 6%. Continuously training in various rooms and modules offered by TryHackMe to be part of an Ethical Hacking Red Team.
-- Completed online course work, and hands-on training offered by EC-Council Apsen portal, HackerSchool (Hyderabad, India) for Certified Ethical Hacker (CEH v13) and Certified Penetration Tester (CPENT) on 13 modules, including Wireless, IoT and Mobile penetration testing.
-- Developed proficiency in SIEM tools through detailed analysis of security logs using Splunk, tracking active network scans using Snort and analyzing network traffic on Wireshark. Implemented hardening techniques for some of the vulnerabilities.
-- Cloud Computing & Platforms – Linux, and Windows, Google Cloud Computing, AWS. Linux exploitations (Kali Linux), Windows exploitation leveraging common misconfigurations. Firewall setup in Windows and in Linux, using iptables and other system files.
-- Continuing education to earn other cybersecurity skills to assist DevOp teams in mitigation as well as to recommend improvements in security vulnerabilities.
+### [Cybersecurity Projects, Simulations, Training](https://github.com/jayc279/CEH)
+- Hands-on experience with offensive, and defensive security tools to identify and exploit vulnerabilities in system, and web applications.
+- Hands-on experience in cybersecurity simulation environments on CompTIA, EC-Council Aspen Portal, TryHackMe platforms, and home lab.
+- Network Architecture probing using Nmap, analyzed network traffic on Wireshark, and implemented hardening techniques for vulnerabilities highlighted by Nessus, ZAP using Iptables, and Windows Firewall.
+- Demonstrable experiences in ethical hacking, threat hunting & management, security architecture, security analytics, Incident Response, and Operations, Program Management and Oversight. 
+
+### Technical Skills
+- Hands-on experience with offensive, and defensive security tools to identify and exploit vulnerabilities in system, and web applications.
+- CompTIA CySA+: Behavior Analysis, Blue Teamer, Incident Response, Security Analytics & Architecture, Risk Management, Threat Intelligence, Threat Management, Vulnerability Analysis, Reporting and Communication, compliance frameworks: NIST 800-53, ISO 27001, PCI-DSS, HIPAA
+- CompTIA Security+: Cryptography, Access Control, Malware Detection, Firewall Configuration, Network Security, Threat Detection, Security Configuration, Security Policies, data Security, Disaster Recovery, Information Security Management
+- EC-C CEH: Footprinting & Reconnaissance, Enumeration, scanning networks, System Hacking, Sniffing, Evading IDS, Firewalls, Honeypots, Web Application Injection Techniques, Hacking Wireless, Hacking Mobile Platform, Maintaining Access, and Covering Tracks
+- Artificial Intelligence: AI for Cybersecurity tasks, scripting and automation – Shell GPT
+- GenAI-LLM: Pre-tuning and fine-tuning LLMs - Reinforced Learning from Human and AI Feedback (RLHF & RLAIF)
+- Operating Systems: Kali Linux, Parrot OS, Linux, Windows, MacOS
+- Cloud implementation and management: GCP Cloud Security, Vulnerability and Incident Management, Disaster Recovery, AWS EC2, S3, RDS
+- Scripting: proficiency in Phyton, PowerShell, PHP, Shell, SQL, and medium proficiency in JS, Java, C, C++
+- Excellent team player, and very good presentation and report writing skills. 
 
 ### Cybersecurity Tools
 |               |                    |           |              |
