@@ -8,12 +8,10 @@
 
 <HR>
 
-•	Certified Security Analyst and Ethical Hacker with expertise in foundational security principles and incident response.<BR>
-•	Proven experience in simulating attacks to identify vulnerabilities and secure systems lawfully (EC-Council CEH).<BR>
-•	Expertise in improving SDLC and CI/CD processes, training teams, and proactively mitigating risk.<BR>
-•	Integrated APIs to enhance security automation, modeling, and strategic improvements.<BR>
-
-**Hobby:** Continuous professional development: learn new technologies, processes, and attack vectors and implement solutions/remediations to improve robustness of current system and decrease attack surface, and earn expert certifications.
+•	Certified Security Analyst (CompTIA Security+ & CompTIA CySA+) and Ethical Hacker (EC-C CEH) with hands-on experience in vulnerability management, incident response, security principles, and threat detection.<BR> 
+•	Proven ability to use industry-standard cybersecurity tools to analyze security events, conduct forensic analysis, and create robust security protocols.<BR> 
+•	Expert in improving SDLC and CI/CD processes, training teams, and proactively mitigating risk.<BR> 
+•	Continuous self-development to learn new technologies, processes, and attack vectors to improve robustness of current systems and decrease attack surface.<BR>
 
 ### CyberSecurity Professional Certifications	
 - :memo: CompTIA CySA+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-CySA%2BCertificate.pdf)
@@ -37,22 +35,39 @@
 - :memo: Google Cloud Security (Google Cloud Training) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://www.coursera.org/account/accomplishments/professional-cert/8D98TQ1DH6AC) 
 
 ### [Cybersecurity Projects, Simulations, Training](https://github.com/jayc279/CEH)
-- Hands-on experience with offensive, and defensive security tools to identify and exploit vulnerabilities in system, and web applications.
-- Hands-on experience in cybersecurity simulation environments on CompTIA, EC-Council Aspen Portal, TryHackMe platforms, and home lab.
-- Network Architecture probing using Nmap, analyzed network traffic on Wireshark, and implemented hardening techniques for vulnerabilities highlighted by Nessus, ZAP using Iptables, and Windows Firewall.
-- Demonstrable experiences in ethical hacking, threat hunting & management, security architecture, security analytics, Incident Response, and Operations, Program Management and Oversight. 
+• **Scanning and Enumeration**: Used Nmap for network reconnaissance to discover active hosts, open ports, and services. Applied banner grabbing
+techniques to identify software versions to search for known vulnerabilities (CVEs).<BR>
+• **Exploitation framework**: Employed Metasploit Framework to select and execute exploits against identified vulnerabilities in systems and network
+services, gaining unauthorized access or control.<BR>
+• **Credential attacks**: Leveraged password cracking tools like John the Ripper and Hydra to perform dictionary and brute-force attacks against weak
+credentials exposed during reconnaissance.<BR>
+• **Packet sniffing**: Used Wireshark to capture and analyze network traffic, identifying unencrypted protocols carrying sensitive data.<BR>
+• **Proxying and Scanning**: Used Burp Suite to intercept, analyze, and manipulate HTTP/S traffic. Ran automated scans for common vulnerabilities
+like SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF).<BR>
+• **Injection**: Utilized SQLmap to automate the detection and exploitation of SQL injection flaws to exfiltrate database content. Wrote custom
+payloads to demonstrate XSS vulnerability impacts, such as cookie stealing, XXE. Manual LFI/RFI and command injection to exfiltrate system files.<BR>
+• **Authentication Testing**: Tested for broken authentication and session management by attempting to bypass login mechanisms or hijack active
+sessions. Conducted manual testing for business logic vulnerabilities, such as privilege escalation or the misuse of application features.<BR>
+• **SIEM**: Configured and monitored SIEM tools like Splunk, Wazuh, and IBM QRadar to centralize and correlate logs from network devices, servers,
+and applications. Created and tuned rules to detect suspicious activities, including port scans and failed login attempts.<BR>
+• **IDS/IPS & Firewalls**: iptables and Snort to detect and block malicious network traffic based on predefined signatures and behavioral anomalies.
+Implemented and maintained network and host-based firewalls to enforce access control policies and filter malicious traffic .<BR>
 
 ### Technical Skills
-- Hands-on experience with offensive, and defensive security tools to identify and exploit vulnerabilities in system, and web applications.
-- CompTIA CySA+: Behavior Analysis, Blue Teamer, Incident Response, Security Analytics & Architecture, Risk Management, Threat Intelligence, Threat Management, Vulnerability Analysis, Reporting and Communication, compliance frameworks: NIST 800-53, ISO 27001, PCI-DSS, HIPAA
-- CompTIA Security+: Cryptography, Access Control, Malware Detection, Firewall Configuration, Network Security, Threat Detection, Security Configuration, Security Policies, data Security, Disaster Recovery, Information Security Management
-- EC-C CEH: Footprinting & Reconnaissance, Enumeration, scanning networks, System Hacking, Sniffing, Evading IDS, Firewalls, Honeypots, Web Application Injection Techniques, Hacking Wireless, Hacking Mobile Platform, Maintaining Access, and Covering Tracks
-- Artificial Intelligence: AI for Cybersecurity tasks, scripting and automation – Shell GPT
-- GenAI-LLM: Pre-tuning and fine-tuning LLMs - Reinforced Learning from Human and AI Feedback (RLHF & RLAIF)
-- Operating Systems: Kali Linux, Parrot OS, Linux, Windows, MacOS
-- Cloud implementation and management: GCP Cloud Security, Vulnerability and Incident Management, Disaster Recovery, AWS EC2, S3, RDS
-- Scripting: proficiency in Phyton, PowerShell, PHP, Shell, SQL, and medium proficiency in JS, Java, C, C++
-- Excellent team player, and very good presentation and report writing skills. 
+• Threat management and intelligence, threat hunting techniques and intelligence collection from multiple log and monitoring sources.<BR>
+• Performing digital forensics during and after an incident. Cryptography and Public Key Infrastructure (PKI), including encryption, hashing, and
+digital signatures. Identity and access management (IAM), including implementing access controls, authentication methods (like MFA), and
+privileged access tools.<BR>
+• Incident response, including preparing for, detecting, containing, eradicating, and recovering from security incidents.<BR>
+• Detecting, analyzing, and mitigating attacks, threats, and vulnerabilities, including malware, social engineering, denial-of-service (DoS), and
+application attacks.<BR>
+• Understanding security program management, governance, and compliance with regulations and policies.<BR>
+• Security operations and monitoring, analyzing data, reporting and communication. Comparing and contrasting different security.<BR>
+• Artificial Intelligence: AI for Cybersecurity tasks, scripting and automation – Shell GPT.<BR>
+• GenAI-LLM: Pre-tuning and fine-tuning LLMs - Reinforced Learning from Human and AI Feedback (RLHF & RLAIF).<BR>
+• Operating Systems: Kali Linux, Parrot OS, Linux, Windows, MacOS.<BR>
+• Automation & Scripting: proficiency in Phyton, PowerShell, PHP, Shell, SQL.<BR>
+• Excellent team player, and very good presentation and report writing skills.<BR> 
 
 ### Cybersecurity Tools
 |               |                    |           |              |
