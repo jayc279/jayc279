@@ -15,7 +15,7 @@
 •	Continuous self-development to learn new technologies, processes, and attack vectors to improve robustness of current systems and decrease attack surface.<BR>
 
 ### CyberSecurity Professional Certifications	
--:memo: CompTIA Pentest+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-PenTest%2BCE-Certificate.pdf)
+- :memo: CompTIA Pentest+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-PenTest%2BCE-Certificate.pdf)
 - :memo: CompTIA CySA+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-CySA%2BCertificate.pdf)
 - :memo: CompTIA Security+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-Security%2BCertificate.pdf)
 - :memo: CompTIA CSAP (Security Analytics Professional) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-Security-Analytics-Professional%E2%80%93CSAP.pdf)
@@ -72,13 +72,15 @@ application attacks.<BR>
 • Excellent team player, and very good presentation and report writing skills.<BR> 
 
 ### Cybersecurity Tools
-- Network Scanning, Packet Sniffing, and Enumeration: Nmap, Wireshark, hping3, Nikto, gobuster, dnsrecon, Shodan, Google Dorking, tcpdump
-- Exploitation, Post-Exploitations, and Persistence: Metasploit , Recon-ng, Responder, Mimikatz, MSFVenom, Evil-WinRM
-- Credential attacks: John the Ripper, Hydra, Hashcat, Medusa.
-- Proxying and Scanning: Burp Suite, Nessus, Nikto, OWASP ZAP, OpenVAS
-- Injection: SQLmap. Manual: ARP spoofing, MiTM attacks, LFI/RFI and cmd injections to exfiltrate system files.
-- SIEM: Splunk, Wazuh, and Snort
-- IDS/IPS & Firewalls: iptables, Snort, Windows Firewall, Virus Scanning and Reverse Engineering
+|               |                    |
+|---------------|--------------------|
+| Network Scanning, Packet Sniffing, and Enumeration		    | Nmap, Wireshark, hping3, Nikto, gobuster, dnsrecon, Shodan, Google Dorking, tcpdump				 |
+| Exploitation, Post-Exploitations, and Persistence			| Metasploit , Recon-ng, Responder, Mimikatz, MSFVenom, Evil-WinRM         |
+| Credential attacks| John the Ripper, Hydra, Hashcat, Medusa								 | 
+| Injection | SQLmap, ARP spoofing, MiTM attacks, LFI/RFI and cmd injections to exfiltrate system files |
+| Proxying and Scanning | Burp Suite, Nessus, Nikto, OWASP ZAP, OpenVAS |
+| SIEM | Splunk, Wazuh, and Snort |
+| IDS/IPS & Firewall | iptables, Snort, Windows Firewall, Virus Scanning and Reverse Engineering |
 
 ### Programming Languages:
 - Proficiency in Python, PHP, Shell, Perl
