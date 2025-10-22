@@ -1,19 +1,21 @@
 ### Hi there, I'm Jay Yanamandala 👋   
 📫jyanamandala@gmail.com
 <BR>
+<a href="https://www.credly.com/badges/775d271b-2dd6-40fd-b6c1-2654eb08bad8/" target=_blank style='border:none;'>CompTIA Pentest+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/9cc32022-736c-4402-937c-4a2add3a19b5/" target=_blank style='border:none;'>CompTIA CySA+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/0eb13ed8-6006-4771-b716-875550ea749f/" target=_blank style='border:none;'>CompTIA Security+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/3cc6d19d-4a04-43e1-92a3-4d8f87ecb0ec/" target=_blank style='border:none;'>CompTIA CSAP (Security Analytics Professional)</a><BR>
+<a href="https://www.credly.com/users/jayachandra-yanamandala/badges#credly" target=_blank style='border:none;'>Credly Badge Wallet</a><BR>
 <a href="https://tryhackme.com/p/jyanamandala" target=_blank style='border:none;'>TryHackMe</a><BR>
 
 <HR>
 
-•	Certified Security Analyst (CompTIA Security+ & CompTIA CySA+) and Ethical Hacker (EC-C CEH) with hands-on experience in vulnerability management, incident response, security principles, and threat detection.<BR> 
+•	Results-driven Cybersecurity Ethical Hacker, Penetration Tester, and Security Analyst professional with hands-on experience in vulnerability management, incident response, security principles, and threat detection.<BR> 
 •	Proven ability to use industry-standard cybersecurity tools to analyze security events, conduct forensic analysis, and create robust security protocols.<BR> 
 •	Expert in improving SDLC and CI/CD processes, training teams, and proactively mitigating risk.<BR> 
 •	Continuous self-development to learn new technologies, processes, and attack vectors to improve robustness of current systems and decrease attack surface.<BR>
 
 ### CyberSecurity Professional Certifications	
+-:memo: CompTIA Pentest+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-PenTest%2BCE-Certificate.pdf)
 - :memo: CompTIA CySA+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-CySA%2BCertificate.pdf)
 - :memo: CompTIA Security+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-Security%2BCertificate.pdf)
 - :memo: CompTIA CSAP (Security Analytics Professional) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-Security-Analytics-Professional%E2%80%93CSAP.pdf)
@@ -61,7 +63,7 @@ privileged access tools.<BR>
 • Incident response, including preparing for, detecting, containing, eradicating, and recovering from security incidents.<BR>
 • Detecting, analyzing, and mitigating attacks, threats, and vulnerabilities, including malware, social engineering, denial-of-service (DoS), and
 application attacks.<BR>
-• Understanding security program management, governance, and compliance with regulations and policies.<BR>
+• Frameworks and Compliance: FedRAMP, NIST SP 800-53, ISO 27001, FISMA, HIPAA, PCI-DSS, COBIT, SOC2, SP 800-115.<BR>
 • Security operations and monitoring, analyzing data, reporting and communication. Comparing and contrasting different security.<BR>
 • Artificial Intelligence: AI for Cybersecurity tasks, scripting and automation – Shell GPT.<BR>
 • GenAI-LLM: Pre-tuning and fine-tuning LLMs - Reinforced Learning from Human and AI Feedback (RLHF & RLAIF).<BR>
@@ -70,12 +72,13 @@ application attacks.<BR>
 • Excellent team player, and very good presentation and report writing skills.<BR> 
 
 ### Cybersecurity Tools
-|               |                    |           |              |
-|---------------|--------------------|-----------|--------------|
-| Splunk		    | Metasploit				 | Snort		 | Burp Suite   |
-| OWASP ZAP			| Nessus             | Hydra     | John (JtR)   |
-| Google Dorks	| Shell-GPT					 | Shodan    |   Nmap       |
-| Wireshark	    | Gobuster					 | Dirbuster |              |
+- Network Scanning, Packet Sniffing, and Enumeration: Nmap, Wireshark, hping3, Nikto, gobuster, dnsrecon, Shodan, Google Dorking, tcpdump
+- Exploitation, Post-Exploitations, and Persistence: Metasploit , Recon-ng, Responder, Mimikatz, MSFVenom, Evil-WinRM
+- Credential attacks: John the Ripper, Hydra, Hashcat, Medusa.
+- Proxying and Scanning: Burp Suite, Nessus, Nikto, OWASP ZAP, OpenVAS
+- Injection: SQLmap. Manual: ARP spoofing, MiTM attacks, LFI/RFI and cmd injections to exfiltrate system files.
+- SIEM: Splunk, Wazuh, and Snort
+- IDS/IPS & Firewalls: iptables, Snort, Windows Firewall, Virus Scanning and Reverse Engineering
 
 ### Programming Languages:
 - Proficiency in Python, PHP, Shell, Perl
