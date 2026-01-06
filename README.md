@@ -1,6 +1,7 @@
 ### Hi there, I'm Jay Yanamandala 👋   
 📫jyanamandala@gmail.com
 <BR>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=D8lrd5RmvO/snnDG4lO2M9uPVA%2BAhgTss6Odlz4luak%3D" target=_blank style='border:none;'>EC-Council CEH (Certified Ethical Hacker)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/775d271b-2dd6-40fd-b6c1-2654eb08bad8/" target=_blank style='border:none;'>CompTIA Pentest+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/9cc32022-736c-4402-937c-4a2add3a19b5/" target=_blank style='border:none;'>CompTIA CySA+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/0eb13ed8-6006-4771-b716-875550ea749f/" target=_blank style='border:none;'>CompTIA Security+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -8,11 +9,17 @@
 <a href="https://tryhackme.com/p/jyanamandala" target=_blank style='border:none;'>TryHackMe</a><BR>
 
 <HR>
+Highly motivated and results-driven cybersecurity consultant with five plus years of experience identifying and mitigating security risks.<BR>
+Proficient in penetration testing, threat analysis, threat modeling, vulnerability analysis and management, compliance and monitoring.<BR>
+Experience in building AI models, pre-tuning, fine-tuning, RLHF, prompt engineering, data pipe-lining, and automation. <BR>
+Experienced in vibe coding and blending AI innovation with cyber defense strategies to improve operational efficiency. <BR>
+Proficient in curating AI-generated code related to database optimization, server architecture, debugging, and ensuring system integrity. <BR>
+Mentored and managed offshore teams in software vulnerabilities testing strategies, SDLC processes, and full-stack development. <BR>
 
-•	Results-driven Cybersecurity Ethical Hacker, Penetration Tester, and Security Analyst professional with hands-on experience in vulnerability management, incident response, security principles, and threat detection.<BR> 
-•	Proven ability to use industry-standard cybersecurity tools to analyze security events, conduct forensic analysis, and create robust security protocols.<BR> 
-•	Expert in improving SDLC and CI/CD processes, training teams, and proactively mitigating risk.<BR> 
-•	Continuous self-development to learn new technologies, processes, and attack vectors to improve robustness of current systems and decrease attack surface.<BR>
+<br><b>Strengths</b><br>
+•	Experience working in early-stage startups.<BR> 
+•	Continuous skills enhancement, effective problem-solving, project completion, clear communication, and collaborative teamwork.<BR> 
+•	Commitment to excellence.<BR> 
 
 ### CyberSecurity Professional Certifications	
 - :memo: CompTIA Pentest+ &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://github.com/jayc279/jayc279/blob/main/certificates/CompTIA-PenTest%2BCE-Certificate.pdf)
@@ -37,39 +44,42 @@
 - :memo: Google Cloud Security (Google Cloud Training) &nbsp;&nbsp;&nbsp;&nbsp; [certificate](https://www.coursera.org/account/accomplishments/professional-cert/8D98TQ1DH6AC) 
 
 ### [Cybersecurity Projects, Simulations, Training](https://github.com/jayc279/CEH)
-• **Scanning and Enumeration**: Used Nmap for network reconnaissance to discover active hosts, open ports, and services. Applied banner grabbing
-techniques to identify software versions to search for known vulnerabilities (CVEs).<BR>
-• **Exploitation framework**: Employed Metasploit Framework to select and execute exploits against identified vulnerabilities in systems and network
-services, gaining unauthorized access or control.<BR>
-• **Credential attacks**: Leveraged password cracking tools like John the Ripper and Hydra to perform dictionary and brute-force attacks against weak
-credentials exposed during reconnaissance.<BR>
-• **Packet sniffing**: Used Wireshark to capture and analyze network traffic, identifying unencrypted protocols carrying sensitive data.<BR>
-• **Proxying and Scanning**: Used Burp Suite to intercept, analyze, and manipulate HTTP/S traffic. Ran automated scans for common vulnerabilities
-like SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF).<BR>
-• **Injection**: Utilized SQLmap to automate the detection and exploitation of SQL injection flaws to exfiltrate database content. Wrote custom
-payloads to demonstrate XSS vulnerability impacts, such as cookie stealing, XXE. Manual LFI/RFI and command injection to exfiltrate system files.<BR>
-• **Authentication Testing**: Tested for broken authentication and session management by attempting to bypass login mechanisms or hijack active
-sessions. Conducted manual testing for business logic vulnerabilities, such as privilege escalation or the misuse of application features.<BR>
-• **SIEM**: Configured and monitored SIEM tools like Splunk, Wazuh, and IBM QRadar to centralize and correlate logs from network devices, servers,
-and applications. Created and tuned rules to detect suspicious activities, including port scans and failed login attempts.<BR>
-• **IDS/IPS & Firewalls**: iptables and Snort to detect and block malicious network traffic based on predefined signatures and behavioral anomalies.
-Implemented and maintained network and host-based firewalls to enforce access control policies and filter malicious traffic .<BR>
+|                  |                          |
+|------------------|--------------------------|
+| Scanning and Enumeration | Used Nmap for network reconnaissance to discover active hosts, open ports, and services. Applied banner grabbing techniques to identify software versions to search for known vulnerabilities (CVEs)|
+| Exploitation framework | Employed Metasploit Framework to select and execute exploits against identified vulnerabilities in systems and network services, gaining unauthorized access or control.|
+| Credential attacks | Leveraged password cracking tools like John the Ripper and Hydra to perform dictionary and brute-force attacks against weak credentials exposed during reconnaissance.|
+| Packet sniffing | Used Wireshark to capture and analyze network traffic, identifying unencrypted protocols carrying sensitive data.|
+| Proxying and Scanning | Used Burp Suite to intercept, analyze, and manipulate HTTP/S traffic. Ran automated scans for common vulnerabilities like SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF).|
+| Injection | Utilized SQLmap to automate the detection and exploitation of SQL injection flaws to exfiltrate database content. Wrote custom payloads to demonstrate XSS vulnerability impacts, such as cookie stealing, XXE. Manual LFI/RFI and command injection to exfiltrate system files.|
+| Authentication Testing | Tested for broken authentication and session management by attempting to bypass login mechanisms or hijack active sessions. Conducted manual testing for business logic vulnerabilities, such as privilege escalation or the misuse of application features.|
+| SIEM | Configured and monitored SIEM tools like Splunk, Wazuh, and IBM QRadar to centralize and correlate logs from network devices, servers, and applications. Created and tuned rules to detect suspicious activities, including port scans and failed login attempts.|
+| IDS/IPS & Firewalls | iptables and Snort to detect and block malicious network traffic based on predefined signatures and behavioral anomalies. Implemented and maintained network and host-based firewalls to enforce access control policies and filter malicious traffic .|
 
 ### Technical Skills
-• Threat management and intelligence, threat hunting techniques and intelligence collection from multiple log and monitoring sources.<BR>
-• Performing digital forensics during and after an incident. Cryptography and Public Key Infrastructure (PKI), including encryption, hashing, and
-digital signatures. Identity and access management (IAM), including implementing access controls, authentication methods (like MFA), and
-privileged access tools.<BR>
-• Incident response, including preparing for, detecting, containing, eradicating, and recovering from security incidents.<BR>
-• Detecting, analyzing, and mitigating attacks, threats, and vulnerabilities, including malware, social engineering, denial-of-service (DoS), and
-application attacks.<BR>
-• Frameworks and Compliance: FedRAMP, NIST SP 800-53, ISO 27001, FISMA, HIPAA, PCI-DSS, COBIT, SOC2, SP 800-115.<BR>
-• Security operations and monitoring, analyzing data, reporting and communication. Comparing and contrasting different security.<BR>
-• Artificial Intelligence: AI for Cybersecurity tasks, scripting and automation – Shell GPT.<BR>
-• GenAI-LLM: Pre-tuning and fine-tuning LLMs - Reinforced Learning from Human and AI Feedback (RLHF & RLAIF).<BR>
-• Operating Systems: Kali Linux, Parrot OS, Linux, Windows, MacOS.<BR>
-• Automation & Scripting: proficiency in Phyton, PowerShell, PHP, Shell, SQL.<BR>
-• Excellent team player, and very good presentation and report writing skills.<BR> 
+|                  |                          |
+|------------------|--------------------------|
+| Threat management and intelligence | threat hunting techniques and intelligence collection from multiple log and monitoring sources.|
+| Digital Forensics | Performing digital forensics during and after an incident. Cryptography and Public Key Infrastructure (PKI), including encryption, hashing, and digital signatures.|  
+| IAM | Identity and access management (IAM), including implementing access controls, authentication methods (like MFA), and privileged access tools.|
+| Incident response | including preparing for, detecting, containing, eradicating, and recovering from security incidents.|
+| Threat Detection & Analysis | Detecting, analyzing, and mitigating attacks, threats, and vulnerabilities, including malware, social engineering, denial-of-service (DoS), and application attacks.|
+| Frameworks and Compliance | FedRAMP, NIST SP 800-53, ISO 27001, FISMA, HIPAA, PCI-DSS, COBIT, SOC2, SP 800-115.|
+| SOC | Security operations and monitoring, analyzing data, reporting and communication. Comparing and contrasting different security.|
+| Artificial Intelligence | AI for Cybersecurity tasks, scripting and automation – Shell GPT.|
+| GenAI-LLM | Pre-tuning and fine-tuning LLMs - Reinforced Learning from Human and AI Feedback (RLHF & RLAIF).|
+| Operating Systems | Kali Linux, Parrot OS, Linux, Windows, MacOS.|
+| Automation & Scripting | proficiency in Phyton, PowerShell, PHP, Shell, SQL.|
+| Project Management | Excellent team player, and very good presentation and report writing skills.|
+
+### DLNN - GenAI-LLM 
+|                  |                          |
+|------------------|--------------------------|
+| Gen AI Large Language Models (LLM) models | HuggingFaces Transformers, OpenAI, and using Pretraining, finetuning, Prompt Engineering with different kinds of feedback (RLHF, RLAIF), RAG methodologies to improve accuracy unseen/test read world data|
+| LLM Frameworks | Multimodal LLM, LangChain Expression language (LCEL), LlamaIndex|
+| Frameworks & Packages | Experience working with TensorFlow, Keras, PyTorch, NLP, Transformers, Data Visualization techniques, Image Augmentation, Reinforcement Learning, Statistical Analysis|
+| Programming languages | Python, R, Perl, PHP, Tcl, Shell, with experience in C++ and C|
+| Cloud platforms | Google Colab, Google Cloud, AWS Sagemaker, AWS EC2|
 
 ### Cybersecurity Tools
 |               |                    |
@@ -81,6 +91,13 @@ application attacks.<BR>
 | Proxying and Scanning | Burp Suite, Nessus, Nikto, OWASP ZAP, OpenVAS |
 | SIEM | Splunk, Wazuh, and Snort |
 | IDS/IPS & Firewall | iptables, Snort, Windows Firewall, Virus Scanning and Reverse Engineering |
+
+### Other Languages and Tools
+|               |                    |           |              |
+|---------------|--------------------|-----------|--------------|
+| PyTorch		    | TensorFlow				 | Keras		 | SciKit-Learn |
+| Langchain			| LlamaIndex         |           |              |
+| Google Cloud	| AWS								 | GitCode   |              |
 
 ### Programming Languages:
 - Proficiency in Python, PHP, Shell, Perl
@@ -100,21 +117,6 @@ application attacks.<BR>
 - :newspaper: Developed a fully connected Deep Neural Network to predict customer churn in a banking dataset, enabling proactive customer retention strategies. [code](https://github.com/jayc279/jayc279.github.io/blob/main/work/deep-learning-nn-parameter-search-bankchurn.ipynb)
 - :newspaper: Neural Networks Deep Learning Hyperparameters search [blog](https://www.kaggle.com/code/jayyanamandala/neural-networks-deep-learning-hyperparameters-sear)
 - :newspaper: Keras-Tuner-hyperparameters-search-for-Obesity-Risk-Prediction [blog](https://www.kaggle.com/code/jayyanamandala/keras-tuner-hyperparameters-search-obesiry-risk)
-
-### OTHER SKILLS 
-- Experience working with Gen AI Large Language Models (LLM) models: HuggingFaces Transformers, OpenAI, and using Pretraining, finetuning, Prompt Engineering with different kinds of feedback (RLHF, RLAIF), RAG methodologies to improve accuracy unseen/test read world data.
-- Multimodal LLM, LangChain Expression language (LCEL), LlamaIndex,
-- Experience working with TensorFlow, Keras, PyTorch, NLP, Transformers, Data Visualization techniques, Image Augmentation, Reinforcement Learning, Statistical Analysis.
-- Proficient in problem-solving, QA methodologies, and testing frameworks.
-- Programming languages including Python, R, Perl, PHP, Tcl, Shell, with experience in C++ and C.
-- Cloud platforms: Google Colab, Google Cloud, AWS Sagemaker, AWS EC2.
-
-### Other Languages and Tools
-|               |                    |           |              |
-|---------------|--------------------|-----------|--------------|
-| PyTorch		    | TensorFlow				 | Keras		 | SciKit-Learn |
-| Langchain			| LlamaIndex         |           |              |
-| Google Cloud	| AWS								 | GitCode   |              |
 
 <!--
 ### Hi there 👋
